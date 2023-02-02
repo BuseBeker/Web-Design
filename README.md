@@ -16,7 +16,7 @@ Instructions
 5. Add form components, text, button, radiobutton, checkbox and dropdown menu to one of your html pages.
 
 6. Add a simple javascipt alert messagebox triggered by button click. And print the following message to the screen  “Alert in assignment one!”.
- 
+
 7. Your website must have a separate css file.
 
 8. Add a specified division id in one of your html files. Its name must be “assignmentone”. Change its appearence on your css file. Specifying division id Css class “assignmentone” specification.
