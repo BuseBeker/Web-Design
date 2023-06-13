@@ -26,3 +26,7 @@ Instructions
 10.The size of “assignmentone” must be specified as 22 and its font must be speficied as "Comic Sans MS" in css file. 
 
 11.The web page must have a professional appearence.
+
+##HOME PAGE 
+![alt text](file:///C:/Users/buseb/Desktop/resim%20bask%C4%B1.PNG)
+
