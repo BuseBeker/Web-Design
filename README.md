@@ -27,6 +27,3 @@ Instructions
 
 11.The web page must have a professional appearence.
 
-##HOME PAGE 
-![alt text](file:///C:/Users/buseb/Desktop/resim%20bask%C4%B1.PNG)
-
